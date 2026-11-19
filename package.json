@@ -1,0 +1,22 @@
+
+{
+  "name": "rest-api-fundamentals",
+  "version": "1.0.0",
+  "description": "REST API Fundamentals project using Node.js and Express.js for DecodeLabs Backend Development Internship.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest-api",
+    "backend"
+  ],
+  "author": "Student",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
