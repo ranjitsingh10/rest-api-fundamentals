@@ -1,0 +1,12 @@
+$kind: http-request
+description: ""
+url: http://localhost:3000/api/users/1
+method: PUT
+body:
+  type: json
+  content: |-
+    {
+        "name": "Updated Postman User",
+        "email": "updated.postman@example.com"
+    }
+order: 7000
